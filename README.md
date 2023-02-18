@@ -30,7 +30,7 @@ the site must be accessible to all users including keyboard users
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://achiewe.github.io/typemaster-pre-launch-landing-page/]
 
 ## My process
 
